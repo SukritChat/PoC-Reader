@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PDFViewer",
+        "repositoryURL": "https://github.com/rajubd49/PDFViewer",
+        "state": {
+          "branch": null,
+          "revision": "d228974c60fe723ad98b690611973184a934ad72",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
